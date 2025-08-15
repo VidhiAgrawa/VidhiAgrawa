@@ -70,7 +70,7 @@ Currently sharpening my skills in **React**, **Node.js**, and **DSA** while crea
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **your-email@example.com**  
+- 📧 Email: vidhiagrawal2205@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/vidhiagrawa](https://www.linkedin.com/in/vidhiagrawa)  
 - 🐙 GitHub: [github.com/VidhiAgrawa](https://github.com/VidhiAgrawa)
 
