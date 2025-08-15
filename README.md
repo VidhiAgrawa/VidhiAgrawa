@@ -46,14 +46,13 @@ Currently sharpening my skills in **React**, **Node.js**, and **DSA** while crea
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VidhiAgrawa&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidhiAgrawa&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=VidhiAgrawa&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VidhiAgrawa&layout=compact&theme=radical)
+
 
 
 ---
