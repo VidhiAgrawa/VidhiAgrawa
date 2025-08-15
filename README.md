@@ -37,7 +37,7 @@ Currently sharpening my skills in **React**, **Node.js**, and **DSA** while crea
 | Repository | Status | Description | Tech Stack |
 |------------|--------|-------------|------------|
 | [React-Projects](https://github.com/VidhiAgrawa/React-Projects) | ✅ Completed | A collection of React.js apps covering hooks, routing & design. | React, CSS, TailwindCSS |
-| [Node-Js](https://github.com/VidhiAgrawa/Node-Js) | ✅ Completed | Backend API projects with authentication & database connectivity. | Node.js, Express.js, MySQL/MongoDB |
+| [Node-Js](https://github.com/VidhiAgrawa/Node-Js) | 🚀 In Progress  | Backend API projects with authentication & database connectivity. | Node.js, Express.js, MySQL/MongoDB |
 | [Animations](https://github.com/VidhiAgrawa/Animations) | ✅ Completed | UI animations built using CSS, JavaScript, and GSAP. | HTML, CSS, JS |
 | [DSA](https://github.com/VidhiAgrawa/DSA) | 🚀 In Progress | Practice problems for Data Structures & Algorithms. | JavaScript, C++, Java |
 
