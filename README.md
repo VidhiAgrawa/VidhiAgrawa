@@ -51,8 +51,9 @@ Currently sharpening my skills in **React**, **Node.js**, and **DSA** while crea
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=VidhiAgrawa&theme=radical)
-
+<p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=VidhiAgrawa&theme=radical)
+</p>
 
 
 ---
