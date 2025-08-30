@@ -50,24 +50,7 @@ Currently sharpening my skills in **React**, **Node.js**, and **DSA** while crea
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VidhiAgrawa&theme=radical" alt="GitHub Streak"/>
-</p>
 
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VidhiAgrawa&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=VidhiAgrawa&color=ff69b4)
-
----
 
 ## 📫 Connect With Me
 - 📧 Email: vidhiagrawal2205@gmail.com 
